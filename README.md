@@ -57,4 +57,4 @@ Lambda expressions are allowed only at source level 1.8 or above
 | Java | 1.8.0_212 |
 | Eclipse | Oxygen.3a Release (4.7.3a) |
 
-* [UP↑](#Contents)
+ [UP↑](#Contents)
